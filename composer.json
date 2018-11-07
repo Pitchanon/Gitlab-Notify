@@ -1,0 +1,20 @@
+{
+  "name": "gitlab-line",
+  "description": "Gitlab Line Notify",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pitchanon D.",
+      "email": "Pitchanon.d@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "pitchanon/line": "dev-master"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
