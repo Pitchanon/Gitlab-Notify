@@ -2,7 +2,7 @@
 
 ## Installation
 
-- [API on Packagist](https://packagist.org/packages/pitchanon/gitlab-notify)
+- [Packagist](https://packagist.org/packages/pitchanon/gitlab-notify)
 
 Require it in your `composer.json` file.
 
